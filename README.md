@@ -1,2 +1,14 @@
-# leetcode-practice-journey
-A collection of my accepted LeetCode solutions and coding problem-solving practice in C++.
+# 🧩 LeetCode Solutions
+
+This repository contains my automated solutions to problems solved on [LeetCode](https://leetcode.com/). 
+
+## 📊 Overview
+* **Language:** C++
+* **Automation:** Maintained via LeetHub.
+* **Goal:** Consistent algorithmic problem-solving and interview preparation.
+
+## 🗂️ Folder Structure
+Solutions are automatically organized by difficulty:
+* 🟢 **Easy**
+* 🟡 **Medium**
+* 🔴 **Hard**
