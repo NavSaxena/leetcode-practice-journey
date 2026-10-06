@@ -42,9 +42,19 @@ Solutions are automatically organized by difficulty:
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2390-removing-stars-from-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
