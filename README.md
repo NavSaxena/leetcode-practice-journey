@@ -68,9 +68,14 @@ Solutions are automatically organized by difficulty:
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0319-bulb-switcher) |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
