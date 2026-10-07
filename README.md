@@ -31,6 +31,7 @@ Solutions are automatically organized by difficulty:
 | ------- |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2390-removing-stars-from-a-string) |
+| [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Solutions are automatically organized by difficulty:
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2390-removing-stars-from-a-string) |
+| [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +59,8 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Math
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
