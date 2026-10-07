@@ -25,6 +25,7 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@ Solutions are automatically organized by difficulty:
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -43,6 +45,7 @@ Solutions are automatically organized by difficulty:
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2390-removing-stars-from-a-string) |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
@@ -63,4 +66,8 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
