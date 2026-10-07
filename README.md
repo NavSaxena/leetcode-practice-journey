@@ -19,12 +19,14 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
@@ -36,6 +38,7 @@ Solutions are automatically organized by difficulty:
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
