@@ -49,6 +49,7 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
+| [0709-to-lower-case](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1154-day-of-the-year) |
 | [1507-reformat-date](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1507-reformat-date) |
