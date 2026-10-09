@@ -19,6 +19,7 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
@@ -82,4 +83,12 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0319-bulb-switcher) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
