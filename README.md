@@ -33,6 +33,7 @@ Solutions are automatically organized by difficulty:
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2390-removing-stars-from-a-string) |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
@@ -50,6 +51,7 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1154-day-of-the-year) |
@@ -73,6 +75,7 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1154-day-of-the-year) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2235-add-two-integers) |
