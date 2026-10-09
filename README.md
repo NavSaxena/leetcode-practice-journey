@@ -74,6 +74,7 @@ Solutions are automatically organized by difficulty:
 | ------- |
 | [0319-bulb-switcher](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0319-bulb-switcher) |
 | [1154-day-of-the-year](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1154-day-of-the-year) |
+| [2235-add-two-integers](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2235-add-two-integers) |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
