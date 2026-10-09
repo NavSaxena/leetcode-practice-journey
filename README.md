@@ -76,6 +76,7 @@ Solutions are automatically organized by difficulty:
 | [1154-day-of-the-year](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1154-day-of-the-year) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2469-convert-the-temperature) |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
@@ -95,4 +96,8 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
