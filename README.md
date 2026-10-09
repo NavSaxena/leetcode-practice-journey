@@ -77,6 +77,7 @@ Solutions are automatically organized by difficulty:
 | [0319-bulb-switcher](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1154-day-of-the-year) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2413-smallest-even-multiple) |
