@@ -82,6 +82,7 @@ Solutions are automatically organized by difficulty:
 | [2235-add-two-integers](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2652-sum-multiples) |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
