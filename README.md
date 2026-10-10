@@ -24,6 +24,7 @@ Solutions are automatically organized by difficulty:
 | [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -123,4 +124,8 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
