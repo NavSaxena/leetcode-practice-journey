@@ -25,6 +25,7 @@ Solutions are automatically organized by difficulty:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2390-removing-stars-from-a-string) |
 | [3894-traffic-signal-color](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/3894-traffic-signal-color) |
