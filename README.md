@@ -74,6 +74,7 @@ Solutions are automatically organized by difficulty:
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1154-day-of-the-year) |
@@ -88,6 +89,7 @@ Solutions are automatically organized by difficulty:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Brainteaser
@@ -106,4 +108,8 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/2413-smallest-even-multiple) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
