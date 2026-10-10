@@ -20,6 +20,7 @@ Solutions are automatically organized by difficulty:
 | ------- |
 | [0001-two-sum](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1929-concatenation-of-array) |
@@ -40,6 +41,7 @@ Solutions are automatically organized by difficulty:
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -112,4 +114,8 @@ Solutions are automatically organized by difficulty:
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
