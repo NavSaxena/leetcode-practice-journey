@@ -32,6 +32,7 @@ Solutions are automatically organized by difficulty:
 | ------- |
 | [0001-two-sum](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
@@ -47,6 +48,7 @@ Solutions are automatically organized by difficulty:
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -56,6 +58,7 @@ Solutions are automatically organized by difficulty:
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/NavSaxena/leetcode-practice-journey/tree/master/0709-to-lower-case) |
